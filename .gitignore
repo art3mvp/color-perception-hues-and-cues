@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Enunciado de la tarea (no se publica)
+Instrucciones_HC.pdf
